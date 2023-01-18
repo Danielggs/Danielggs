@@ -3,8 +3,8 @@
 ## ¿quien soy?
 Soy un programador fullstack que aprendio a programar por curiosidad, mi primer lenguaje de programacion java, me interese por la informatica gracias a unos  cursos y realice el bootcamp de Soy Henry y ahora quiero poder ingresas a este gran mundo de la programacion.
 
-## ¿quien soy?
-por Ahora estoy trabajando en pequeños proyectos para mejorar mis habilidades y mi formacion como programador.
+## ¿que hago?
+Por Ahora estoy trabajando en pequeños proyectos para mejorar mis habilidades y mi formacion como programador.
 
 ## ¿que tecnologias se usar?
 <p>
